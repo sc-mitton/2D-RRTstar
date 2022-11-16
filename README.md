@@ -3,6 +3,8 @@
 # Overview
 
 A simulation of obstical avoidance with a two link robot which uses a sampling based RRT* algorithm.
+[RRT overview](https://en.wikipedia.org/wiki/Rapidly-exploring_random_tree)
+[Original Paper on RRT](https://ieeexplore.ieee.org/document/844730)
 
 ### Code
 
